@@ -1,0 +1,14 @@
+
+drwxr-xr-x 3 john john 4096 1998-09-29 04:16              -0700 Mail
+-rw-r--r-- 1 john john 3767 1997-05-30 06:24:16.000000000 -0700 README
+-rw-r--r-- 1 john john 1133 1995-07-28 06:42:32.000000000 -0700 README.mail
+
+-rw-r--r--   1 john  staff   629 Aug 18 09:43:36 1998 .environment
+-rw-r--r--   1 john  staff  1258 Jul 28 06:42:32 1995 .login
+-rw-r--r--   1 john  staff   631 Jul 28 06:42:32 1995 .logout
+-rw-r--r--   1 john  staff    52 Aug 26 02:41:26 1998 .mh_profile
+-rw-r--r--   1 john  staff    67 Aug 26 02:39:19 1998 .newsrc
+-rw-r--r--   1 john  staff   457 Jul 28 06:42:32 1995 .startup.X
+-rw-r--r--   1 john  staff  1815 May 30 06:24:16 1997 .tcshrc
+-rw-r--r--   1 john  staff   764 Aug 13 00:10:28 1998 .tcshrc.mine
+-rw-r--r--   1 john  staff    14 Jul 28 06:42:32 1995 .zephyr.subs
