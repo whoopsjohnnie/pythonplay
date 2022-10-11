@@ -1,0 +1,16 @@
+
+-rw-r--r--  1 john  john  123622 Apr  9 06:43:17 1997 AsWedit
+-rw-r--r--  1 john  john   11918 Feb  5 12:54:51 1996 CXterm
+-rw-r--r--  1 john  john    6698 Dec  5 09:46:53 1997 Fig
+-rw-r--r--  1 john  john    2736 Dec  5 09:46:54 1997 Fig-color
+-rw-r--r--  1 john  john   10398 Jul 17 10:50:16 1998 Ghostview
+-rw-r--r--  1 john  john     191 Mar 14 08:17:02 1997 I3d
+-rw-r--r--  1 john  john    3992 Sep 16 06:49:33 1997 NXTerm
+-rw-r--r--  1 john  john     373 Apr 21 01:50:01 1995 Vxp
+-rw-r--r--  1 john  john    4819 Feb  1 06:05:59 1997 XBlast
+-rw-r--r--  1 john  john   10565 Sep 26 13:33:55 1996 XDir
+-rw-r--r--  1 john  john    9579 Oct 19 08:20:27 1995 XFtp
+-rw-r--r--  1 john  john    1633 Dec 13 13:25:51 1997 XPat
+-rw-r--r--  1 john  john    2515 Jul 29 14:30:01 1993 XPilot
+-rw-r--r--  1 john  john    4615 Apr 15 06:02:45 2000 XTerm
+-rw-r--r--  1 john  john     718 Apr 15 06:02:45 2000 XTerm-color
